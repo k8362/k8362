@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @k8362
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ..
+<!---77724a59e53c5d87e23c4632615cd4d186fe8b9b
+k8362/k8362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
